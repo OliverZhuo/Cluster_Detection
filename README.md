@@ -1,3 +1,3 @@
 # Clusters-Detection
-Non-overlapping clusters (communities) structures detection in networks by modularity.
+Non-overlapping clusters (communities) structures detection in networks by modularity.<br/>
 According to M.E.J Newman in PNAS 2006: https://www.pnas.org/content/103/23/8577.
